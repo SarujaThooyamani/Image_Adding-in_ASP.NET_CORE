@@ -1,0 +1,6 @@
+@mile3image_HostAddress = http://localhost:5140
+
+GET {{mile3image_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

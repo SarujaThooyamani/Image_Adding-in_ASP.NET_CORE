@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Saru\\OneDrive\\Desktop\\mile3image\\mile3image\\wwwroot\\images\\63c78144-af48-4f55-86da-fe7599e2b20e_1O0A8760.JPG",
+      "PackagePath": "staticwebassets\\images\\63c78144-af48-4f55-86da-fe7599e2b20e_1O0A8760.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Saru\\OneDrive\\Desktop\\mile3image\\mile3image\\wwwroot\\images\\97c89914-bb6b-433e-a3b7-ae921bce8cc0_1O0A8751.JPG",
+      "PackagePath": "staticwebassets\\images\\97c89914-bb6b-433e-a3b7-ae921bce8cc0_1O0A8751.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Saru\\OneDrive\\Desktop\\mile3image\\mile3image\\wwwroot\\images\\af06c3e7-93f8-4de1-ade7-a6098d26d9ee_darksky.jpg",
+      "PackagePath": "staticwebassets\\images\\af06c3e7-93f8-4de1-ade7-a6098d26d9ee_darksky.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.mile3image.props",
+      "PackagePath": "build\\mile3image.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.mile3image.props",
+      "PackagePath": "buildMultiTargeting\\mile3image.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.mile3image.props",
+      "PackagePath": "buildTransitive\\mile3image.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.mile3image.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

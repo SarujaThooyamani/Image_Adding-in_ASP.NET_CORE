@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "yChnf+gsNaHnmu+bIJVzrhoCrKNfJ/uvxwfGXINMW9Q=",
+  "Source": "mile3image",
+  "BasePath": "_content/mile3image",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "mile3image\\wwwroot",
+      "Source": "mile3image",
+      "ContentRoot": "C:\\Users\\Saru\\OneDrive\\Desktop\\mile3image\\mile3image\\wwwroot\\",
+      "BasePath": "_content/mile3image",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Saru\\OneDrive\\Desktop\\mile3image\\mile3image\\wwwroot\\images\\63c78144-af48-4f55-86da-fe7599e2b20e_1O0A8760.JPG",
+      "SourceId": "mile3image",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Saru\\OneDrive\\Desktop\\mile3image\\mile3image\\wwwroot\\",
+      "BasePath": "_content/mile3image",
+      "RelativePath": "images/63c78144-af48-4f55-86da-fe7599e2b20e_1O0A8760.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\63c78144-af48-4f55-86da-fe7599e2b20e_1O0A8760.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\Saru\\OneDrive\\Desktop\\mile3image\\mile3image\\wwwroot\\images\\97c89914-bb6b-433e-a3b7-ae921bce8cc0_1O0A8751.JPG",
+      "SourceId": "mile3image",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Saru\\OneDrive\\Desktop\\mile3image\\mile3image\\wwwroot\\",
+      "BasePath": "_content/mile3image",
+      "RelativePath": "images/97c89914-bb6b-433e-a3b7-ae921bce8cc0_1O0A8751.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\97c89914-bb6b-433e-a3b7-ae921bce8cc0_1O0A8751.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\Saru\\OneDrive\\Desktop\\mile3image\\mile3image\\wwwroot\\images\\af06c3e7-93f8-4de1-ade7-a6098d26d9ee_darksky.jpg",
+      "SourceId": "mile3image",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Saru\\OneDrive\\Desktop\\mile3image\\mile3image\\wwwroot\\",
+      "BasePath": "_content/mile3image",
+      "RelativePath": "images/af06c3e7-93f8-4de1-ade7-a6098d26d9ee_darksky.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\af06c3e7-93f8-4de1-ade7-a6098d26d9ee_darksky.jpg"
+    }
+  ]
+}
